@@ -1,0 +1,88 @@
+Predmet,math,logic,programming,design,economics,management,hardware,network,data,testing,language,physical,cluster
+6BA0001 algebra,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BA0009 matematika pre informatikov,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BH0003 úvod do štúdia,2,4,0,6,0,4,0,0,3,0,2,0,4
+6BI0011 informatika 1,0,9,10,4,0,0,0,0,5,6,2,0,4
+6BM0027 základy ekonómie,6,6,0,0,10,3,0,0,2,0,0,0,2
+6BA0012 praktické cvičenia z matematiky 1,10,8,0,0,0,0,0,0,2,0,0,0,0
+6BI0032 praktikum z programovania 1,0,6,10,2,0,0,0,0,2,5,0,0,4
+6BJ0011 slovenský jazyk 1,0,4,0,0,0,5,0,0,0,0,10,0,4
+6BT0001 telesná výchova 1,0,0,0,0,0,0,0,0,0,0,0,10,1
+6BA0002 algoritmická teória grafov,7,10,6,2,0,0,0,3,5,0,0,0,0
+6BA0005 diskrétna pravdepodobnosť,10,7,0,0,0,0,0,0,8,0,0,0,0
+6BI0012 informatika 2,0,9,10,4,0,0,0,0,5,6,2,0,4
+6BI0034 princípy IKS,4,6,3,2,0,0,6,10,0,0,0,0,3
+6BL0001 ekonomické a právne aspekty podnikania,2,4,0,8,10,10,0,0,0,0,0,0,2
+6BA0013 praktické cvičenia z matematiky 2,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BI0018 linux - základy,0,8,8,0,0,0,4,7,0,0,0,0,3
+6BI0033 praktikum z programovania 2,0,9,10,4,0,0,0,0,5,6,2,0,4
+6BI0046 úvod do operačných systémov,0,9,6,0,0,0,4,6,0,0,0,0,3
+6BJ0012 slovenský jazyk 2,0,4,0,0,0,5,0,0,0,0,10,0,4
+6BT0002 telesná výchova 2,0,0,0,0,0,0,0,0,0,0,0,0,1
+6BT0007 telovýchovné sústredenie 1,0,0,0,0,0,0,0,0,0,0,0,10,1
+6BA0006 matematická analýza 1,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BI0003 číslicové počítače,4,10,8,4,0,0,10,0,0,0,0,0,3
+6BI0013 informatika 3,0,9,10,4,0,0,0,0,5,6,2,0,4
+6BI0019 logické systémy,4,10,8,4,0,0,10,0,0,0,0,0,3
+6BI0039 strojovo orientované jazyky,4,10,9,4,0,0,7,0,0,0,0,0,3
+6BI0001 3D tlač,0,4,0,10,0,0,10,0,0,0,0,0,4
+6BI0026 počítačové siete 1,0,7,6,2,0,0,3,10,0,0,0,0,3
+6UI0005 analýza procesov,9,10,0,0,4,0,0,0,10,0,0,0,0
+6BA0014 praktické cvičenia z matematiky 3,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BI0007 digitálne meny a blockchain,2,8,0,0,10,2,0,0,6,0,0,0,2
+6BI0023 otvorené geografické dáta 1,0,4,2,8,0,0,0,0,6,0,0,0,4
+6BI0045 UNIX - vývojové prostredie,0,8,8,0,0,0,4,7,0,0,0,0,3
+6BJ0005 jazyk anglický 1,0,7,2,0,0,8,0,0,0,0,10,0,4
+6BM0003 ekonómia podniku,2,4,0,6,10,10,0,0,0,0,0,0,2
+6BM0019 povolanie podnikateľ 1,2,4,0,6,10,10,0,0,0,0,0,0,2
+6BT0003 telesná výchova 3,0,0,0,0,0,0,0,0,0,0,0,10,1
+6BT0008 telovýchovné sústredenie 2,0,0,0,0,0,0,0,0,0,0,0,10,1
+6BA0004 diskrétna optimalizácia,8,10,5,4,0,0,0,3,5,0,0,0,0
+6BI0005 databázové systémy,0,10,8,6,0,4,0,2,8,0,0,0,4
+6UA0002 pravdepodobnosť a štatistika,9,10,0,0,4,2,0,0,10,0,0,0,0
+6UI0004 algoritmy a údajové štruktúry 1,2,10,10,3,0,0,3,0,0,8,0,0,4
+6BA0007 matematická analýza 2,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BI0016 jazyk C# a .NET,0,8,10,6,0,0,0,0,0,3,0,0,4
+6BI0027 počítačové siete 2,0,7,6,2,0,0,3,10,0,0,0,0,3
+6BI0038 softvérové modelovanie,0,6,3,10,0,6,0,2,0,6,0,0,4
+6BI0048 vývoj aplikácií pre mobilné zariadenia,0,8,10,6,0,0,0,0,0,3,0,0,4
+6BA0011 numerické metódy,9,10,0,0,4,0,0,0,10,0,0,0,0
+6BH0002 sociológia,0,6,0,4,7,10,0,0,4,0,0,0,2
+6BI0021 metaprogramovanie,0,9,10,6,0,0,0,0,3,2,0,0,4
+6BI0024 otvorené geografické dáta 2,0,4,2,8,0,0,0,0,6,0,0,0,4
+6BI0041 techniky programovania 1,0,9,10,8,0,0,0,0,2,4,0,0,4
+6BJ0006 jazyk anglický 2,0,7,2,0,0,8,0,0,0,0,10,0,4
+6BM0020 povolanie podnikateľ 2,2,4,0,6,10,10,0,0,0,0,0,0,2
+6BT0004 telesná výchova 4,0,0,0,0,0,0,0,0,0,0,0,10,1
+6UI0002 tabuľkové procesory,5,6,0,4,0,4,0,0,6,0,0,0,0
+6UI0006 elektronické spracovanie a prezentácia dokumentov,2,4,0,8,0,4,0,0,3,0,2,0,4
+6UM0002 makroekonómia,5,4,0,6,10,7,0,0,3,0,0,0,2
+6BI0035 princípy operačných systémov,0,9,6,0,0,0,4,6,0,0,0,0,3
+6BJ0001 anglický jazyk bc. 1,0,7,2,0,0,8,0,0,0,0,10,0,4
+6UA0003 modelovanie a simulácia,3,9,4,7,3,5,0,0,10,6,0,0,4
+6UI0010 softvérové inžinierstvo,0,6,3,10,0,6,0,2,0,6,0,0,4
+6UI0012 vývoj aplikácií pre internet a intranet,0,8,10,8,0,0,0,0,0,7,0,0,4
+6BA0010 modelovanie a optimalizácia,3,6,4,5,2,5,0,0,10,6,0,0,4
+6BI0028 počítačové siete 3,0,7,6,2,0,0,3,10,0,0,0,0,3
+6UA0001 dáta informácie znalosti,6,8,5,2,6,3,0,0,10,0,0,0,0
+6BA0008 matematická analýza 3,10,8,0,0,0,0,0,0,4,0,0,0,0
+6BI0037 python v sieťových aplikáciách,0,6,10,0,0,0,0,10,6,5,0,0,3
+6BI0040 technické prostriedky PC,0,5,2,3,2,0,10,2,0,0,0,0,3
+6BI0042 techniky programovania 2,0,9,10,8,0,0,0,0,2,4,0,0,4
+6BI0052 zabezpečenie sietí zariadeniami Fortinet,0,8,2,0,0,0,0,10,2,6,0,0,3
+6BI0054 základy programovania vo Windows,0,8,8,0,0,0,4,7,0,0,0,0,3
+6BI0055 základy testovania softvéru,0,4,7,0,0,0,0,0,0,10,0,0,4
+6BM0029 ekonómia v praxi,5,4,0,6,10,7,0,0,3,0,0,0,2
+6BT0005 telesná výchova 5,0,0,0,0,0,0,0,0,0,0,0,10,1
+6UI0007 internet vecí,0,8,8,7,0,0,9,10,0,3,0,0,3
+6UM0004 dane a rozpočet,8,6,0,2,10,9,0,0,6,0,0,0,2
+6UM0007 podnikové financie,2,4,0,6,10,10,0,0,4,0,0,0,2
+6BJ0002 anglický jazyk bc. 2,0,7,2,0,0,8,0,0,0,0,10,0,4
+6BX0001 prax,5,5,5,5,5,5,5,5,5,5,5,5,4
+6BZ0001 bakalárska práca,5,5,5,5,5,5,5,5,5,5,5,5,4
+6BA0003 analýza viacrozmerných dát,7,9,3,0,7,0,0,0,10,5,0,0,0
+6BI0009 implementácie UNIXu-LINUX,0,8,8,0,0,0,4,7,0,0,0,0,3
+6BI0049 vývoj aplikácií v Unity3D,3,8,8,8,0,0,0,0,0,4,0,0,4
+6BI0050 vývoj pokročilých aplikácií,0,10,9,6,0,0,4,8,0,4,0,0,3
+6BT0006 telesná výchova 6,0,0,0,0,0,0,0,0,0,0,0,10,1
+6UM0005 manažérska komunikácia,0,4,0,4,0,10,0,0,0,0,8,0,4
